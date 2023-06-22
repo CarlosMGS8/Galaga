@@ -1,0 +1,13 @@
+body{
+    background-image: url('Imagenes/FondoEspacio.jpg');
+}
+.container {
+    width: 700px;
+    margin: 80px auto;
+  }
+#canvas{ 
+    background:#ffffff; 
+    border:#ff0000 5px solid;
+    position: absolute;
+  }
+  
